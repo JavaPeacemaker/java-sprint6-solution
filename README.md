@@ -1,1 +1,3 @@
-# java-sprint6-solution
+# техническое задание №6
+## Спринт 6
+### yandex-praktikum
